@@ -15,7 +15,7 @@ As seguintes bibliotecas foram utilizadas na implementação do projeto:
 
 ### Backend
 - [Express](https://www.npmjs.com/package/express) - Framework projetado para criar aplicativos da Web e APIs
-- [cors Package](https://www.npmjs.com/package/cors) - Permite que os recursos sejam acessados por uma aplicação de domínio diferente
+- [Cors Package](https://www.npmjs.com/package/cors) - Permite que os recursos sejam acessados por uma aplicação de domínio diferente
 - [Nodemon](https://nodemon.io/) - Utilitário que irá monitorar as alterações nos arquivos e reiniciar automaticamente o servidor
 
 ### Frontend
